@@ -1,2 +1,2 @@
 # Anjali Rajendran
-https://anjaliraj015.github.io/
+https://anjaliraj015.github.io/gtech-portfolio/
